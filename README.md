@@ -215,16 +215,6 @@ Professional product visualization including lighting simulation, material reali
 
 ---
 
-## 🔗 Connect & Collaborate
-
-- **GitHub**: [@minaromanyrezk](https://github.com/minaromanyrezk)
-- **Behance**: [Portfolio Showcase](https://behance.net/minaromanyrezk)
-- **Instagram**: Professional creative content
-- **LinkedIn**: Professional network and case studies
-- **Email**: Design inquiries and collaborations welcome
-
----
-
 ## 📚 Resources
 
 ### Design Documentation
