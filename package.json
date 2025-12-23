@@ -1,0 +1,16 @@
+{
+  "name": "creative-design-portfolio",
+  "version": "1.0.0",
+  "description": "AI-powered visual content creation and portfolio automation system",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node src/index.js",
+    "fetch-behance": "node scripts/fetch-behance.js",
+    "fetch-pinterest": "node scripts/fetch-pinterest.js",
+    "sync-all": "npm run fetch-behance && npm run fetch-pinterest"
+  },
+  "keywords": ["design", "portfolio", "automation", "behance", "pinterest", "ai"],
+  "author": "Mina Romany",
+  "license": "MIT"
+}
